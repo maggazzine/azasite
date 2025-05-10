@@ -140,7 +140,7 @@ export default function Home() {
           <div className="bg-white/95 p-8 rounded-3xl shadow-xl border border-pink-100 animate-slideUp">
             <h3 className="text-3xl font-bold text-pink-600 mb-6">AZA: My Serenade</h3>
             <div className="space-y-4 text-pink-700 text-lg">
-              <p>A - Always my morning's first light</p>
+              <p>A - Always my morning&apos;s first light</p>
               <p>Z - Zenith where all feels right</p>
               <p>A - Anchor through every night</p>
               <div className="mt-6 border-t-2 border-pink-100 pt-6 italic">
