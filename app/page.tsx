@@ -108,9 +108,9 @@ export default function Home() {
             {showSecret && (
               <div className="absolute -bottom-24 left-1/2 -translate-x-1/2 bg-white p-4 rounded-lg shadow-xl animate-fadeIn">
                 <p className="text-pink-600 font-medium">
-                  "Through lifetimes and beyond time's flow,<br/>
+                  &quot;Through lifetimes and beyond time&apos;s flow,<br/>
                   My soul would always know your glow<br/>
-                  - Your Eternal Partner"
+                  - Your Eternal Partner&quot;
                 </p>
               </div>
             )}
@@ -124,9 +124,9 @@ export default function Home() {
               <p className="text-pink-600 text-lg font-medium">
                 {showPromise ? (
                   <span className="animate-fadeIn">
-                    "I vow to cherish every moment,<br/>
-                    To love you gently and endlessly"<br/>
-                    <span className="text-sm mt-2 block">- Carved in life's tapestry</span>
+                    &quot;I vow to cherish every moment,<br/>
+                    To love you gently and endlessly&quot;<br/>
+                    <span className="text-sm mt-2 block">- Carved in life&apos;s tapestry</span>
                   </span>
                 ) : (
                   'Click to unveil timeless vow 🌹'
@@ -144,9 +144,9 @@ export default function Home() {
               <p>Z - Zenith where all feels right</p>
               <p>A - Anchor through every night</p>
               <div className="mt-6 border-t-2 border-pink-100 pt-6 italic">
-                "Your laughter - my favorite melody,<br/>
+                &quot;Your laughter - my favorite melody,<br/>
                 Your heart - my eternal symphony,<br/>
-                My always and forever, my wife."
+                My always and forever, my wife.&quot;
               </div>
             </div>
           </div>
